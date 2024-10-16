@@ -1,0 +1,14 @@
+D:\PRN221\DAY6_SortPerformance\SortPerformance\bin\Debug\net8.0\SortPerformance.exe
+D:\PRN221\DAY6_SortPerformance\SortPerformance\bin\Debug\net8.0\SortPerformance.deps.json
+D:\PRN221\DAY6_SortPerformance\SortPerformance\bin\Debug\net8.0\SortPerformance.runtimeconfig.json
+D:\PRN221\DAY6_SortPerformance\SortPerformance\bin\Debug\net8.0\SortPerformance.dll
+D:\PRN221\DAY6_SortPerformance\SortPerformance\bin\Debug\net8.0\SortPerformance.pdb
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.AssemblyInfoInputs.cache
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.AssemblyInfo.cs
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.csproj.CoreCompileInputs.cache
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.dll
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\refint\SortPerformance.dll
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.pdb
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\SortPerformance.genruntimeconfig.cache
+D:\PRN221\DAY6_SortPerformance\SortPerformance\obj\Debug\net8.0\ref\SortPerformance.dll
